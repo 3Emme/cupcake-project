@@ -1,0 +1,18 @@
+h1.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h2.flashy {
+  color: red;
+  font-style: italic;
+}
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.best {
+  color: purple;
+  font-style: bold;
+}
